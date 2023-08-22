@@ -1,1 +1,7 @@
-# te-solid
+# TE SOLID
+
+S
+O
+L
+I
+D
